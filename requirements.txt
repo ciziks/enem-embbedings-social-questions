@@ -1,0 +1,13 @@
+# Bibliotecas essenciais
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+
+# Processamento de linguagem natural (PLN)
+wordcloud
+
+# Notebooks e ferramentas auxiliares
+notebook
+tqdm==4.66.1
