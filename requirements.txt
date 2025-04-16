@@ -5,6 +5,7 @@ seaborn
 matplotlib
 scipy
 pymupdf
+PyPDF2
 
 # Processamento de linguagem natural (PLN)
 wordcloud
