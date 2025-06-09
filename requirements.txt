@@ -16,10 +16,12 @@ nltk
 gensim
 ollama
 openai
-transformers
+transformers[torch]
 torcheval
 torch
 
 # Notebooks e ferramentas auxiliares
 notebook
 tqdm
+jupyter
+ipywidgets
